@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690887858 source:c:\users\sfkfa\documents\cpp\loginregproject\main.cpp
+	<iostream>
+	<fstream>
+
